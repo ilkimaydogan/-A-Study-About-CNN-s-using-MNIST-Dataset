@@ -1,4 +1,4 @@
-# -A-Study-About-CNN-s-using-MNIST-Dataset
+# Study-About-CNN-s-using-MNIST-Dataset
 
 Convolutional Neural Network (CNN) is a deep learning architecture widely used in image and video
 recognition, processing, and analysis. In this assignment, I explore the fundamentals of CNN by
